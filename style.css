@@ -1,0 +1,33 @@
+h1{
+    text-align:center;
+    color:white;
+    font-family:bold;
+    font-size:48px;
+}
+
+
+form{
+    margin-left: 300px;
+    color:#D2B48C;
+    font-family:sans-serif;
+}
+.row
+{
+    margin: 0px 0px 20px 0px;
+
+}
+.error
+{
+    color: red;
+}
+label{
+    width: 100px;
+    display: inline-block;    
+}
+body
+{
+    background-color:#333;
+}
+ .parent {border: 1px solid black; padding: 10px; height:100%;width: 100%;}
+ .inner {border: 1px solid white; margin: 10px; width: 20%; height: 20%;float:left;}
+.divadd { text-align:center;}
