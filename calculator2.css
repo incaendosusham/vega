@@ -1,0 +1,45 @@
+body {
+  background: #ccc;
+}
+
+.calc {
+  width: 272px;
+  margin: 80px auto;
+  background:#696969;
+  padding: 15px;
+  border-radius: 6px;
+  border: 1px solid #2B2B2B;
+}
+
+.window {
+  height: 1.5em;
+  line-height: 1.5em;
+  width: 93%;
+  background:white;
+  box-sizing: border-box;
+  border: 2px solid rgba(0, 0, 0, 0.7);
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  color: #000;
+  text-align: right;
+  padding: 0 10px;
+  margin-bottom: 5px;
+  font-size: 2em;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.btn{
+    width: 60px;
+    height: 60px;
+    margin:0,10,10,10;
+  }
+
+.btn:hover {
+  cursor: pointer;
+
+}
+
+.equals {
+  width: 124px;
+}
